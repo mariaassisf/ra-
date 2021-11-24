@@ -1,0 +1,45 @@
+#titulo1{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    
+}
+#titulo1:hover {
+    color: darkblue;
+    transform-style: unset;
+    transition-duration: 1s;
+    transform-origin: 150%;
+    font-size: 40px;
+    }
+    div{
+        background-color: rgba(230, 230, 230, 0.87);
+        width: 800px;
+        text-align: center;    
+        margin-right: 30%;
+        margin-left: 10%;
+        height: 300px;
+        font-style: italic;
+        font-family: 'Lucida Sans',  'Lucida Grande', 'Lucida Sans Unicode',  Verdana, sans-serif;
+            }
+.linkcesio{
+    text-decoration: none;
+    color: white;
+}
+.linkcesio:hover{
+color: rgba(89, 255, 247, 0.815);
+}
+#imagemferrovelho{
+    width: 35%;
+    height: 50%;
+    float: left;
+    padding-top: 9%;
+    padding-left: 5%;
+    margin-right: 2%;
+}
+p{
+    padding-top: 10%;
+    margin-right: 2%;
+    
+}
+body{
+    background-color: rgb(60, 153, 141);
+}
